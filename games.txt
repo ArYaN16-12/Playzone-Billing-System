@@ -1,0 +1,7 @@
+1 Bowling|200
+2 Trampoline|150
+3 Virtual Reality|250
+4 Air Hockey|150
+5 8 Ball Pool|200
+6 Snooker|200
+7 Arcade Machine|150
